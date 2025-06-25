@@ -7,16 +7,12 @@ Are you stuck trying to log into Bitdefender Central and nothing seems to work? 
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 0;">
-        <a href="https://central.bitdefender.com" target="_blank" style="padding: 12px 24px; background-color: #E30000; color: white; text-decoration: none; font-size: 16px; border-radius: 6px;">
+        <a href="https://central.bitdefender.com" target="_blank" style="padding: 12px 24px; background-color: #19ab05; color: white; text-decoration: none; font-size: 16px; border-radius: 6px;">
             Go to Bitdefender Central
         </a>
     </div>
 
-.. image:: bitdefender-login.png
-   :alt: Bitdefender Central Login
-   :target: https://central.bitdefender.com
-   :align: center
-   :width: 600px
+
 
 What is Bitdefender Central?
 ============================
