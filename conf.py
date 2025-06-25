@@ -1,0 +1,51 @@
+# Configuration file for the Sphinx documentation builder.
+
+import os
+import sys
+
+# -- Path setup --------------------------------------------------------------
+
+# If extensions or modules to document with autodoc are in another directory,
+# add these directories to sys.path here.
+# Example: sys.path.insert(0, os.path.abspath('../src'))
+
+# -- Project information -----------------------------------------------------
+
+project = 'Fix Bitdefender Central Login Issues'
+copyright = '2025, Bitdefender'
+author = 'Bitdefender Support Team'
+
+# The full version, including alpha/beta/rc tags
+release = '1.0.0'
+
+# -- HTML output settings ----------------------------------------------------
+
+# Title shown in the browser tab and top of HTML pages
+html_title = "Fix Bitdefender Central Login Problems – Step-by-Step Help"
+
+# Optional short title (e.g., for nav bar)
+html_short_title = "Bitdefender Login Help"
+
+# Favicon (place bitdefender.ico in root or _static)
+html_favicon = 'bitdefender.ico'
+
+# Theme (optional - can uncomment and install sphinx_rtd_theme if desired)
+# html_theme = 'sphinx_rtd_theme'
+
+# Hide "View page source"
+html_show_sourcelink = False
+
+# Allow raw HTML blocks in .rst files
+html_allow_unsafe = True
+
+# Theme customization options
+html_theme_options = {
+    'show_powered_by': False,
+}
+
+# Paths to templates and static files
+templates_path = ['_templates']
+html_static_path = ['_static']  # Make sure your image or icon is inside _static/
+
+# Patterns to ignore when looking for source files
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
