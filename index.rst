@@ -7,12 +7,11 @@ Are you stuck trying to log into Bitdefender Central and nothing seems to work? 
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 0;">
-        <a href="https://central.bitdefender.com" target="_blank" style="padding: 12px 24px; background-color: #19ab05; color: white; text-decoration: none; font-size: 16px; border-radius: 6px;">
+        <a href="https://central.bitdefender.com" target="_blank"
+           style="padding: 12px 24px; background-color: #19ab05; color: white; text-decoration: none; font-size: 16px; border-radius: 6px;">
             Go to Bitdefender Central
         </a>
     </div>
-
-
 
 What is Bitdefender Central?
 ============================
@@ -51,7 +50,7 @@ Here are the most common causes of login failure:
    Too many failed login attempts may lock your account for security reasons.
 
 How to Fix Bitdefender Central Login Issues
-============================================
+===========================================
 
 1. **Check Your Login Credentials**  
    Make sure you're entering the correct email address associated with your Bitdefender account.  
@@ -80,14 +79,14 @@ My Personal Experience
 I once forgot my password and tried logging in multiple times until my account was temporarily locked. After resetting the password and waiting for a few minutes, I was able to get back in. The mobile app was especially useful—it worked while the website didn’t. So now, I always keep a backup method and store my 2FA codes securely.
 
 Additional Tips
-================
+===============
 
 - Enable biometric login (Face ID or Fingerprint) on mobile for faster access  
 - Keep your browser and Bitdefender app updated  
 - Don’t use public Wi-Fi when logging into your account
 
 FAQs
-=====
+====
 
 **Q1: Can I log in to Bitdefender Central from multiple devices?**  
 Yes, you can use the same account on your PC, smartphone, or tablet.
@@ -102,15 +101,15 @@ Only if you’re already logged in. Otherwise, contact Bitdefender support.
 Wait 15–30 minutes or contact support if it remains locked.
 
 Final Thoughts
-===============
+==============
 
 Being unable to log into Bitdefender Central can be frustrating, but it’s usually fixable with simple steps like resetting your password or using the mobile app. Keeping your login details secure and backing up your 2FA codes can save you from future hassles. If nothing works, Bitdefender’s support team is responsive and helpful—so don’t hesitate to reach out.
 
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 20px 60px;">
-        <a href="https://central.bitdefender.com" target="_blank" style="padding: 14px 28px; background-color: #19ab05; color: white; text-decoration: none; font-weight: bold; font-size: 17px; border-radius: 8px;">
+        <a href="https://central.bitdefender.com" target="_blank"
+           style="padding: 14px 28px; background-color: #19ab05; color: white; text-decoration: none; font-weight: bold; font-size: 17px; border-radius: 8px;">
             Login to Bitdefender Central
         </a>
     </div>
-
