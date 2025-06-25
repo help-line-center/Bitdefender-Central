@@ -1,1 +1,0 @@
-# Bitdefender-Central
