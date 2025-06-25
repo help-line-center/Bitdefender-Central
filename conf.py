@@ -42,10 +42,11 @@ html_allow_unsafe = True
 html_theme_options = {
     'show_powered_by': False,
 }
+raw_enabled = True
 
 # Paths to templates and static files
-templates_path = ['_templates']
-html_static_path = ['_static']  # Make sure your image or icon is inside _static/
+# templates_path = ['_templates']
+# html_static_path = ['_static']  # Make sure your image or icon is inside _static/
 
 # Patterns to ignore when looking for source files
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
