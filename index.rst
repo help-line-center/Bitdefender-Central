@@ -109,7 +109,7 @@ Being unable to log into Bitdefender Central can be frustrating, but it’s usua
 .. raw:: html
 
     <div style="text-align: center; margin: 30px 20px 60px;">
-        <a href="https://central.bitdefender.com" target="_blank" style="padding: 14px 28px; background-color: #E30000; color: white; text-decoration: none; font-weight: bold; font-size: 17px; border-radius: 8px;">
+        <a href="https://central.bitdefender.com" target="_blank" style="padding: 14px 28px; background-color: #19ab05; color: white; text-decoration: none; font-weight: bold; font-size: 17px; border-radius: 8px;">
             Login to Bitdefender Central
         </a>
     </div>
