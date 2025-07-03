@@ -26,10 +26,10 @@ html_title = "Fix Bitdefender Central Login Problems – Step-by-Step Help"
 # Optional short title (e.g., for nav bar)
 html_short_title = "Bitdefender Login Help"
 
-# Favicon (place bitdefender.ico in root or _static)
-# html_favicon = 'bitdefender.ico'
+# Favicon (place favicon.ico in the root or _static folder)
+html_favicon = 'favicon.ico'
 
-# Theme (optional - can uncomment and install sphinx_rtd_theme if desired)
+# Choose a theme (uncomment if needed)
 # html_theme = 'sphinx_rtd_theme'
 
 # Hide "View page source"
@@ -43,6 +43,9 @@ html_theme_options = {
     'show_powered_by': False,
 }
 
-raw_enabled = True
+# Paths to templates and static files
+templates_path = ['_templates']
+# html_static_path = ['_static']  # Uncomment if you have static assets
 
-
+# Patterns to ignore when looking for source files
+# exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
