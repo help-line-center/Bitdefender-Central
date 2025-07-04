@@ -5,7 +5,7 @@ Bitdefender Central – Can't Login? Fix It Now
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlci1oZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://sites.google.com/view/bitdefendercentral-activate/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Go to Bitdefender Central
         </a>
     </div>
@@ -108,7 +108,7 @@ Being unable to log into Bitdefender Central can be frustrating, but it’s usua
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9iaXRkZWZlbmRlci1oZWxwbGluZS5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://sites.google.com/view/bitdefendercentral-activate/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Login to Bitdefender Central
         </a>
     </div>
